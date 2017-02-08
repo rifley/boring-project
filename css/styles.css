@@ -1,0 +1,30 @@
+body{
+  background-color: #ffeed4;
+
+}
+
+h1 {
+  text-align: right;
+}
+
+h2 {
+  text-align: right;
+}
+
+img {
+  display: block;
+  margin: auto;
+  opacity: 0.5;
+}
+
+p {
+  text-align: center;
+}
+
+.intro {
+  color: salmon;
+  font-weight: bolder;
+  padding-left: 10%;
+  padding-right: 10%;
+  line-height: 50px;
+}
